@@ -73,7 +73,7 @@ Game Tetris klasik yang dibuat dengan React Native dan Expo. Game ini dapat dija
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/edisuherlan/game-tetris-snake-sederhana.git
+   git clone https://github.com/edisuherlan/game-tetris-sederhana.git
    cd game-tetris-snake-sederhana
    ```
 
