@@ -257,7 +257,7 @@ Proyek ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanj
 
 **Edisuherlan**
 - GitHub: [@edisuherlan](https://github.com/edisuherlan)
-- Repository: [game-tetris-snake-sederhana](https://github.com/edisuherlan/game-tetris-snake-sederhana)
+- Repository: [game-tetris-snake-sederhana](https://github.com/edisuherlan/game-tetris-sederhana)
 
 ## 🙏 Terima Kasih
 
